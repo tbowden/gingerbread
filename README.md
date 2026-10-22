@@ -14,6 +14,9 @@
 • Rock Candy Crystals: Mount green rock candy sticks upside down into the diorama floor to mimic jagged, high-fantasy mineral pines.
 • Meringue Kiss Towers: Pipe and bake green meringue kisses with sharp, upward-pointing tips, then stack them into a pyramid using royal icing.
 
+*   **Cone-Shaped Pavlovas:** Bake graduating flat discs of pavlova meringue (from large to small) and stack them with whipped cream and fruit to build a sturdy, tiered Christmas tree cone. Alternatively, pipe meringue spirally over a baking-paper-wrapped foil cone mold and bake low and slow to create a hollow, freestanding crystal shell.
+*   
+
 🧱 Creative Marzipan Applications
 
 • Cobblestone Path: Roll out uncoloured or cocoa-tinted marzipan and press an interlocking stone pattern into it using a toothpick. Dust with cocoa or icing sugar, then wipe the surface to leave powder in the grooves.
@@ -34,4 +37,3 @@
 • Sugar & Citrus Bakery Glaze: A thin mixture of corn syrup, warm water (or orange juice), and icing sugar. Brushing this over baked gingerbread panels deepens the brown colour and adds a satiny finish.
 • Baked-On Egg Wash: Whisk an egg yolk with a tablespoon of water and brush it onto raw gingerbread dough right before baking for a deep, golden-brown lacquered look.
 • Lustre Dust Paints: Food-grade decorative paints (like metallic or pearlescent dust mixed with decorator's alcohol) used to paint shimmering gold or iridescent highlights onto candied orange peel fences.
-Let me know if you need to add a section for luminescent/UV reactive ingredients, or if you want to include specific baking temperatures and timeline steps in your repo!
